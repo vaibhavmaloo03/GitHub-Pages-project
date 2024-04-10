@@ -8,7 +8,7 @@ I'm a passionate programmer and a curious learner. I love exploring new technolo
 
 I started my programming journey with Python, and I've since expanded my knowledge to include JavaScript, HTML, and CSS. Programming has become an integral part of my life, and I enjoy creating projects that can make a difference.
 
-![My Favorite Coding Image](images/coding.jpg)
+![My Favorite Coding Image](https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=)
 
 ## Skills
 
