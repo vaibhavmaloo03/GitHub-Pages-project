@@ -28,3 +28,20 @@ Here's a simple Python function that returns the sum of two numbers:
 def add_numbers(a, b):
     return a + b
 ```
+### Contact Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vaibhav-maloo).
+
+## Markdown Examples
+
+Below are examples of various Markdown constructs.
+
+### Headings
+
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
