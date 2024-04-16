@@ -37,7 +37,7 @@ Below are examples of various Markdown constructs.
 
 ### Headings
 
-```markdown
+```markdown```
 # Heading 1
 ## Heading 2
 ### Heading 3
